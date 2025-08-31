@@ -17,5 +17,5 @@ Animate.css para animaciones
 Font Awesome para íconos
 
 
-URL DEL SERCIDOR DE LA PAGINA CREADA: https://entregafinal-belasalud.vercel.app/
+URL DEL SERVIDOR DE LA PAGINA CREADA: https://entregafinal-belasalud.vercel.app/
 
